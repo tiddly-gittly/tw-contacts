@@ -1,0 +1,10 @@
+title: $:/plugins/linonetwo/contacts/language/zh-Hans/
+
+Name: 联系人管理
+Description: 记录并深入认识你认识的人
+Configs/Description: 通过这些设置，您可以自定义「联系人管理」插件的行为。
+Configs/PluginConfigs/Caption: 插件设置
+Configs/XXX/Caption: 配置甲
+Configs/XXX/Description: 配置甲是甲
+Configs/YYY/Caption: 配置乙
+Configs/ZZZ/Caption: 配置丙

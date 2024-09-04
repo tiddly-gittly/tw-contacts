@@ -1,0 +1,10 @@
+title: $:/plugins/linonetwo/contacts/language/en-GB/
+
+Name: Contact management
+Description: Record and know about people you know
+Configs/Description: These settings let you customise the behaviour of "Contact management" plugin.
+Configs/PluginConfigs/Caption: Plugin Configs
+Configs/XXX/Caption: XXX
+Configs/XXX/Description: XXX is XXX
+Configs/YYY/Caption: YYY
+Configs/ZZZ/Caption: ZZZ

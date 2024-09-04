@@ -1,0 +1,5 @@
+title: $:/plugins/linonetwo/contacts/readme
+
+\procedure lingo-base() $:/plugins/linonetwo/contacts/language/
+
+<<lingo Readme>>
