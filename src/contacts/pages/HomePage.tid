@@ -1,0 +1,17 @@
+title: $:/plugins/linonetwo/contacts/pages/HomePage
+
+<nav class="contacts-layout-top-area">
+
+{{$:/plugins/linonetwo/contacts/components/AddNewItem}}
+
+{{$:/plugins/linonetwo/contacts/components/Navigation}}
+
+</nav>
+
+<<lingo HealthRecordSummary>>
+
+<article class="contacts-layout-body-area">
+
+{{$:/plugins/linonetwo/contacts/components/DebuffDynamicTable}}
+
+</article>

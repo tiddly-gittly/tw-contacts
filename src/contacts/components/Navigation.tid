@@ -1,0 +1,14 @@
+title: $:/plugins/linonetwo/contacts/components/Navigation
+
+\procedure lingo-base() $:/plugins/linonetwo/contacts/language/
+
+<fieldset>
+	<legend>{{$:/core/images/home-button}} <<lingo Navigation>></legend>
+
+	<$button>
+		<$action-setfield $tiddler="$:/layout" text="" />
+		{{$:/core/images/standard-layout}}
+  	<<lingo BackToStandardLayout>>
+	</$button>
+
+</fieldset>

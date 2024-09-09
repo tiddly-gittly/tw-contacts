@@ -1,0 +1,13 @@
+[
+    {
+        "created": "20230219143648537",
+        "text": "OPMI is a biomedical ontology in the area of precision medicine and its related investigations. It is community-driven and developed by following the OBO Foundry ontology development principles.\nIn OPMI, we treated medical condition status as a status, which is a realizable entitry. One major section of the branch is various diagnosis condition status. There are basically two types of diagnosis: one type diagnosis is treated as a condition status, the other is diagnosis (OGMS_0000073) as a type of clinical data item. One good example to illustrate the difference is the difference between primary and principal diagnoses. While these can be (and frequently are) the same diagnosis in practice, their definitions are distinct. While a principal diagnosis is the underlying cause of patient symptoms, the primary diagnosis is used for healthcare billing purposes and is a type of medical condition status. Reference: https://www.definitivehc.com/resources/glossary/primary-diagnosis",
+        "title": "$:/TraitTag/OPMI/Status",
+        "tags": "$:/SuperTag/TraitTag",
+        "type": "text/vnd.tiddlywiki",
+        "modified": "20230219145213110",
+        "url": "https://oscaf.sourceforge.net/tmo.html#tmo:Task",
+        "schema": "{\n    \"type\": \"object\",\n    \"properties\": {\n        \"opmi_medicalConditionStatus\": {\n            \"type\": \"string\",\n            \"description\": \"The state or status at the point during the visit the diagnosis was given (admitting diagnosis, final diagnosis), whether the diagnosis was determined due to laboratory findings, if the diagnosis was exclusionary, or if it was a preliminary diagnosis, among others.\",\n            \"default\": \"confirmedDiagnosis\",\n            \"enum\": [\n                \"admissionDiagnosis\",\n                \"causeOfDeath\",\n                \"conditionToBeDiagnosedByProcedure\",\n                \"confirmedDiagnosis\",\n                \"contributoryCauseOfDeath\",\n                \"deathDiagnosis\",\n                \"dischargeDiagnosis\",\n                \"postoperativeDiagnosis\",\n                \"preliminaryDiagnosis\",\n                \"preoperativeDiagnosis\",\n                \"primaryDiagnosis\",\n                \"referralDiagnosis\",\n                \"resolvedCondition\",\n                \"secondaryDiagnosis\"\n            ]\n        }\n    }\n}",
+        "wl-field-name-text": "schema"
+    }
+]

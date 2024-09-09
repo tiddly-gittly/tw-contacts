@@ -1,0 +1,5 @@
+title: $:/plugins/linonetwo/person/language/zh-Hans/
+
+Name: 人物本体
+Description: 人物本体，用于超级标签。提供人脉管理所需的各种字段名和字段描述。
+PersonContextDescription: 人物上下文（The Person context）是常用的人物属性集合，用于描述一个人物的基本信息。

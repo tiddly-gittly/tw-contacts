@@ -1,0 +1,88 @@
+title: $:/plugins/linonetwo/person/language/zh-Hans/
+
+TraitTag/Person/Address/Title: 地址
+TraitTag/Person/Address/Description: 用户的居住或工作地址。遵循vcard标准。
+
+TraitTag/Person/Affiliation/Title: 关联机构
+TraitTag/Person/Affiliation/Description: 用户所属的公司或组织。
+
+TraitTag/Person/Born/Title: 出生日期
+TraitTag/Person/Born/Description: 用户的出生日期，格式为年-月-日。
+
+TraitTag/Person/Child/Title: 孩子
+TraitTag/Person/Child/Description: 用户的孩子列表。
+
+TraitTag/Person/Colleague/Title: 同事
+TraitTag/Person/Colleague/Description: 用户的同事列表。
+
+TraitTag/Person/Country/Title: 国家
+TraitTag/Person/Country/Description: 用户所在的国家。
+
+TraitTag/Person/Depiction/Title: 描述
+TraitTag/Person/Depiction/Description: 用户的图像或描述链接。
+
+TraitTag/Person/Died/Title: 死亡日期
+TraitTag/Person/Died/Description: 用户的死亡日期，格式为年-月-日。
+
+TraitTag/Person/Email/Title: 电子邮件
+TraitTag/Person/Email/Description: 用户的电子邮箱地址。
+
+TraitTag/Person/FamilyName/Title: 姓氏
+TraitTag/Person/FamilyName/Description: 用户的姓氏。
+
+TraitTag/Person/Gender/Title: 性别
+TraitTag/Person/Gender/Description: 用户的性别标识。
+
+TraitTag/Person/GivenName/Title: 名字
+TraitTag/Person/GivenName/Description: 用户的名字。
+
+TraitTag/Person/Homepage/Title: 个人主页
+TraitTag/Person/Homepage/Description: 用户的个人或职业网站链接。
+
+TraitTag/Person/HonorificPrefix/Title: 荣誉称号
+TraitTag/Person/HonorificPrefix/Description: 用户的头衔或前缀。
+
+TraitTag/Person/HonorificSuffix/Title: 封号
+TraitTag/Person/HonorificSuffix/Description: 用户的封号或后缀。
+
+TraitTag/Person/Image/Title: 图像
+TraitTag/Person/Image/Description: 用户的代表性图像链接。
+
+TraitTag/Person/JobTitle/Title: 职称
+TraitTag/Person/JobTitle/Description: 用户的职业称号。
+
+TraitTag/Person/Knows/Title: 熟人
+TraitTag/Person/Knows/Description: 用户认识的人列表。
+
+TraitTag/Person/Locality/Title: 地区
+TraitTag/Person/Locality/Description: 用户所在的城镇或地区。
+
+TraitTag/Person/Name/Title: 名称
+TraitTag/Person/Name/Description: 用户的全名。
+
+TraitTag/Person/Nationality/Title: 国籍
+TraitTag/Person/Nationality/Description: 用户的国籍。
+
+TraitTag/Person/Nickname/Title: 昵称
+TraitTag/Person/Nickname/Description: 用户的昵称或别名。
+
+TraitTag/Person/Parent/Title: 父母
+TraitTag/Person/Parent/Description: 用户的父母列表。
+
+TraitTag/Person/PostalCode/Title: 邮政编码
+TraitTag/Person/PostalCode/Description: 用户住址的邮政编码。
+
+TraitTag/Person/Region/Title: 地区
+TraitTag/Person/Region/Description: 用户所在的省份或地区。
+
+TraitTag/Person/Sibling/Title: 兄弟姐妹
+TraitTag/Person/Sibling/Description: 用户的兄弟姐妹列表。
+
+TraitTag/Person/Spouse/Title: 配偶
+TraitTag/Person/Spouse/Description: 用户的配偶。
+
+TraitTag/Person/Street/Title: 街道
+TraitTag/Person/Street/Description: 用户住址的具体街道。
+
+TraitTag/Person/Telephone/Title: 电话
+TraitTag/Person/Telephone/Description: 用户的电话号码。

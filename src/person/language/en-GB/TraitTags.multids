@@ -1,0 +1,88 @@
+title: $:/plugins/linonetwo/person/language/en-GB/
+
+TraitTag/Person/Address/Title: Address
+TraitTag/Person/Address/Description: The individual's residential or business address. Follows vcard standard.
+
+TraitTag/Person/Affiliation/Title: Affiliation
+TraitTag/Person/Affiliation/Description: The company or organization the individual is associated with.
+
+TraitTag/Person/Born/Title: Birth Date
+TraitTag/Person/Born/Description: The individual's date of birth in YYYY-MM-DD format.
+
+TraitTag/Person/Child/Title: Children
+TraitTag/Person/Child/Description: List of the individual's children.
+
+TraitTag/Person/Colleague/Title: Colleagues
+TraitTag/Person/Colleague/Description: List of the individual's colleagues.
+
+TraitTag/Person/Country/Title: Country
+TraitTag/Person/Country/Description: The country the individual resides in.
+
+TraitTag/Person/Depiction/Title: Depiction
+TraitTag/Person/Depiction/Description: Link to an image or depiction of the individual.
+
+TraitTag/Person/Died/Title: Death Date
+TraitTag/Person/Died/Description: The individual's date of death in YYYY-MM-DD format.
+
+TraitTag/Person/Email/Title: Email
+TraitTag/Person/Email/Description: The individual's email address.
+
+TraitTag/Person/FamilyName/Title: Family Name
+TraitTag/Person/FamilyName/Description: The individual's surname.
+
+TraitTag/Person/Gender/Title: Gender
+TraitTag/Person/Gender/Description: The individual's gender identity.
+
+TraitTag/Person/GivenName/Title: Given Name
+TraitTag/Person/GivenName/Description: The individual's first name.
+
+TraitTag/Person/Homepage/Title: Homepage
+TraitTag/Person/Homepage/Description: Link to the individual's personal or professional website.
+
+TraitTag/Person/HonorificPrefix/Title: Honorific Prefix
+TraitTag/Person/HonorificPrefix/Description: The individual's title or prefix.
+
+TraitTag/Person/HonorificSuffix/Title: Honorific Suffix
+TraitTag/Person/HonorificSuffix/Description: The individual's suffix or title.
+
+TraitTag/Person/Image/Title: Image
+TraitTag/Person/Image/Description: Link to the individual's representative image.
+
+TraitTag/Person/JobTitle/Title: Job Title
+TraitTag/Person/JobTitle/Description: The individual's professional title.
+
+TraitTag/Person/Knows/Title: Knows
+TraitTag/Person/Knows/Description: List of people the individual knows.
+
+TraitTag/Person/Locality/Title: Locality
+TraitTag/Person/Locality/Description: The town or district the individual lives in.
+
+TraitTag/Person/Name/Title: Name
+TraitTag/Person/Name/Description: The individual's full name.
+
+TraitTag/Person/Nationality/Title: Nationality
+TraitTag/Person/Nationality/Description: The individual's nationality.
+
+TraitTag/Person/Nickname/Title: Nickname
+TraitTag/Person/Nickname/Description: The individual's nickname or alias.
+
+TraitTag/Person/Parent/Title: Parents
+TraitTag/Person/Parent/Description: List of the individual's parents.
+
+TraitTag/Person/PostalCode/Title: Postal Code
+TraitTag/Person/PostalCode/Description: The postal code of the individual's address.
+
+TraitTag/Person/Region/Title: Region
+TraitTag/Person/Region/Description: The state or region the individual resides in.
+
+TraitTag/Person/Sibling/Title: Siblings
+TraitTag/Person/Sibling/Description: List of the individual's siblings.
+
+TraitTag/Person/Spouse/Title: Spouse
+TraitTag/Person/Spouse/Description: The individual's spouse.
+
+TraitTag/Person/Street/Title: Street
+TraitTag/Person/Street/Description: The specific street of the individual's address.
+
+TraitTag/Person/Telephone/Title: Telephone
+TraitTag/Person/Telephone/Description: The individual's telephone number.

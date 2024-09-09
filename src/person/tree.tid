@@ -1,0 +1,6 @@
+title: $:/plugins/linonetwo/person/tree
+creator: LinOnetwo
+type: text/vnd.tiddlywiki
+
+<<tree prefix:"$:/plugins/linonetwo/person/">>
+<<tree prefix:"$:/TraitTag/Person">>

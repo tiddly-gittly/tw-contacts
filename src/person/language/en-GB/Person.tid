@@ -1,0 +1,9 @@
+title: $:/plugins/linonetwo/person/language/en-GB/Person
+creator: LinOnetwo
+type: text/vnd.tiddlywiki
+
+[[Person|https://json-ld.org/contexts/person.html]] is one of the default contexts for JSON-LD, which is based on semantic Web ontologies such as [[FOAF|http://xmlns.com/foaf/0.1/]] [[schema.org|http:// schema.org/]] [[vcard|http://www.w3.org/2006/vcard/ns#]] and other semantic Web ontologies. In general, personal to-do tasks can be managed in a detailed and clear way. The corresponding field names and their values are listed below. Some of the fields duplicate functionality, so feel free to choose.
+
+<$json-editor-form filter="[[$:/TraitTag/Person]get[schema]]" tiddler="$:/temp/Person-example" />。
+
+In addition to using these fields, you can record escapades with and comments about this person in the body (`text`) field.

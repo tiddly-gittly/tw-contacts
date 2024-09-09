@@ -1,0 +1,15 @@
+title: $:/plugins/linonetwo/contacts/ViewTemplate/UnderBuffDebuffCondition
+tags: $:/tags/ViewTemplate
+
+\procedure lingo-base() $:/plugins/linonetwo/contacts/language/
+
+<$list filter="[all[current]tag{$:/plugins/linonetwo/contacts/tags/debuff}] [all[current]tag{$:/plugins/linonetwo/contacts/tags/buff}] [all[current]tag{$:/plugins/linonetwo/contacts/tags/condition}]">
+
+	<$button>
+		<$action-setfield $tiddler=<<currentTiddler>> endDate=<<now "[UTC]YYYY0MM0DD0hh0mm0ssXXX">> opmi_medicalConditionStatus="resolvedCondition" />
+  	<<lingo SetEnded>>
+	</$button>
+
+  {{||$:/plugins/linonetwo/contacts/components/EditTime}}
+
+</$list>

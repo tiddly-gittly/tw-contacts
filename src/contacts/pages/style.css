@@ -1,0 +1,19 @@
+.contacts-layout-top-area {
+  display: flex;
+  flex-direction: row;
+  width: 100%;
+}
+.contacts-layout-top-area > p:first-child {
+  flex: 2;
+}
+.contacts-layout-top-area > p {
+  flex: 1;
+}
+.contacts-layout-top-area button {
+  padding: 1em;
+}
+
+.contacts-layout-body-area {
+  width: 100%;
+  overflow: auto;
+}

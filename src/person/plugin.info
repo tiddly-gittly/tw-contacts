@@ -1,0 +1,9 @@
+{
+  "title": "$:/plugins/linonetwo/person",
+  "name": "Person",
+  "author": "linonetwo",
+  "description": "Person Ontology for SuperTag. 人物本体，用于超级标签。",
+  "plugin-type": "plugin",
+  "version": "0.1.0",
+  "list": "readme TMO tree"
+}

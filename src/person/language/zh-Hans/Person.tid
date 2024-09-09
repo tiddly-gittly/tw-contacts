@@ -1,0 +1,9 @@
+title: $:/plugins/linonetwo/person/language/zh-Hans/Person
+creator: LinOnetwo
+type: text/vnd.tiddlywiki
+
+[[Person|https://json-ld.org/contexts/person.html]]是 JSON-LD 的默认上下文之一，它基于 [[FOAF|http://xmlns.com/foaf/0.1/]] [[schema.org|http://schema.org/]] [[vcard|http://www.w3.org/2006/vcard/ns#]] 等语义Web本体。总的来说，可以详细清楚地管理个人待办任务。下面列出对应的字段名称和其值。有一些字段的功能重复了，可自由选择。
+
+<$json-editor-form filter="[[$:/TraitTag/Person]get[schema]]" tiddler="$:/temp/Person-example" />。
+
+除了使用这些字段，你可以把与这个人相处的逸事和对其的评价记录在正文（`text`）字段中。
