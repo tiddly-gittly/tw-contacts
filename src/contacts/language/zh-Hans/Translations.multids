@@ -1,6 +1,7 @@
 title: $:/plugins/linonetwo/contacts/language/zh-Hans/
 
-Name: 人脉
+Name: 人脉管理
+ShortName: 人脉
 Description: 记录并深入认识你认识的人
 Configs/Description: 通过这些设置，您可以自定义「人脉」插件的行为。
 Configs/PluginConfigs/Caption: 插件设置
