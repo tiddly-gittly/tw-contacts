@@ -1,5 +1,4 @@
 title: $:/plugins/linonetwo/person/Person
-creator: LinOnetwo
 
 \procedure lingo-base() $:/plugins/linonetwo/person/language/
 

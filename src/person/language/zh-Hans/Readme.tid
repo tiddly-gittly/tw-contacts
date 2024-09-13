@@ -6,8 +6,8 @@ title: $:/plugins/linonetwo/person/language/zh-Hans/Readme
 
 <<lingo Description>>
 
-[[$:/TraitTag/TMO/Task]]
+[[$:/TraitTag/Person]]
 
-基于 {{$:/TraitTag/TMO/Task!!url}}
+基于 {{$:/TraitTag/Person!!url}}
 
-<$json-editor-form filter="[[$:/TraitTag/TMO/Task]get[schema]]" tiddler="$:/temp/TMO-example" />
+<$json-editor-form filter="[[$:/TraitTag/Person]get[schema]]" tiddler="$:/temp/TMO-example" />

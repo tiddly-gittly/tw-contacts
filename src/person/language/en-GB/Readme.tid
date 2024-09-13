@@ -6,8 +6,8 @@ title: $:/plugins/linonetwo/person/language/en-GB/Readme
 
 <<lingo Description>>
 
-[[$:/TraitTag/TMO/Task]]
+[[$:/TraitTag/Person]]
 
-Based on {{$:/TraitTag/TMO/Task!!url}}
+Based on {{$:/TraitTag/Person!!url}}
 
-<$json-editor-form filter="[[$:/TraitTag/TMO/Task]get[schema]]" tiddler="$:/temp/TMO-example" />
+<$json-editor-form filter="[[$:/TraitTag/Person]get[schema]]" tiddler="$:/temp/TMO-example" />
