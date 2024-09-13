@@ -1,0 +1,4 @@
+title: Contact
+tags: $:/TraitTag/Person
+
+A [[SuperTag|$:/plugins/linonetwo/super-tag]] based on the [[People Ontology Plugin|$:/plugins/linonetwo/person]], it provides various field names and field descriptions required for people management, like Friend-Of-A-Friend (FOAF) related concepts.

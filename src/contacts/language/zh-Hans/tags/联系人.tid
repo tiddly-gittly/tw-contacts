@@ -1,0 +1,4 @@
+title: 联系人
+tags: $:/TraitTag/Person
+
+基于[[人物本体插件|$:/plugins/linonetwo/person]]的[[超级标签|$:/plugins/linonetwo/super-tag]]，提供人脉管理所需的各种字段名和字段描述，如 「朋友之友」（FOAF）相关的概念。

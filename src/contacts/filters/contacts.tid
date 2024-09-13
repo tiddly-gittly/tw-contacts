@@ -1,0 +1,5 @@
+title: $:/plugins/linonetwo/contacts/filters/contacts
+
+\define filter-is-under-contacts-tag() [<currentTiddler>tag[联系人]] [<currentTiddler>tag[Contact]]
+
+\define get-all-contacts() [all[tiddlers]filter<filter-is-under-contacts-tag>]
