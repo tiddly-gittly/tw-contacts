@@ -5,7 +5,12 @@ ShortName: Contacts
 Description: Record and know about people you know
 Configs/Description: These settings let you customise the behaviour of "Contacts" plugin.
 Configs/PluginConfigs/Caption: Plugin Configs
-Configs/XXX/Caption: XXX
-Configs/XXX/Description: XXX is XXX
-Configs/YYY/Caption: YYY
-Configs/ZZZ/Caption: ZZZ
+Configs/ContactTagName/Caption: Contact tag bame
+Configs/ContactTagName/Description: [[Super Tag|https://tiddly-gittly.github.io/super-tag/]] that add on the newly created contact tiddlers. It needs to be a super tag that with [[Person trait|$:/plugins/linonetwo/person]], you can edit [[the config tiddler|$:/plugins/linonetwo/contacts/configs/tags/contact]] to use your own super tag.
+Configs/TableColumns/Caption: Table Columns
+NewContact: New Contact
+Navigation: Navigation
+OpenOptions: Open Options
+ContactsList: Contacts List
+AddNewItem: Add New Item
+BackToStandardLayout: Back to Standard Layout

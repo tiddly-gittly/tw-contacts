@@ -1,0 +1,21 @@
+title: $:/plugins/linonetwo/contacts/PageLayout/components/AddNewItem
+
+\procedure lingo-base() $:/plugins/linonetwo/contacts/language/
+
+<fieldset>
+	<legend>{{$:/core/images/new-button}} <<lingo AddNewItem>></legend>
+
+	<$button>
+		<$action-createtiddler
+			$message="tm-new-tiddler"
+			title={{$:/language/DefaultNewTiddlerTitle}}
+			tags={{$:/plugins/linonetwo/contacts/configs/tags/contact}}
+		>
+			<$action-navigate $to=<<createTiddler-title>>/>
+			<$action-sendmessage $message="tm-edit-tiddler" $param=<<createTiddler-title>> />
+		</$action-createtiddler>
+		{{$:/plugins/linonetwo/contacts/icons/new-contact}} 
+  	<<lingo NewContact>>
+	</$button>
+
+</fieldset>

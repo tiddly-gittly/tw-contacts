@@ -8,6 +8,6 @@ title: $:/plugins/linonetwo/person/language/zh-Hans/Readme
 
 [[$:/TraitTag/Person]]
 
-基于 {{$:/TraitTag/Person!!url}}
+[[超级标签|https://tiddly-gittly.github.io/super-tag/]]，基于 {{$:/TraitTag/Person!!url}}
 
 <$json-editor-form filter="[[$:/TraitTag/Person]get[schema]]" tiddler="$:/temp/TMO-example" />

@@ -6,4 +6,9 @@ title: $:/plugins/linonetwo/contacts/language/zh-Hans/Readme
 
 <<lingo Description>>
 
-在这里写自述文档。
+!! 使用方法
+
+# 使用页面控制按钮栏上的「切换布局」按钮 {{$:/core/ui/Buttons/layout}} 来切换到「{{$:/plugins/linonetwo/contacts/icons/PageLayout}} <<lingo ShortName>>」布局。
+# 点击左上角的 {{$:/core/images/new-button}} <<lingo AddNewItem>> 里的按钮来创建新的联系人等，点击按钮后会自动跳转回 {{$:/core/images/standard-layout}} 标准布局，并打开刚刚创建的联系人条目供你编辑。
+# 编辑完成，并保存条目后，你会看到在查看模式下，这个条目的底部会显示[[超级标签|https://tiddly-gittly.github.io/super-tag/]]提供的智能字段编辑器，你可以从里面选择所需的字段。如果不了解用法，可以阅读超级标签的文档。
+# 编辑完成，并保存条目后，这个条目会出现在 {{$:/plugins/linonetwo/contacts/icons/PageLayout}} <<lingo ShortName>> 布局里的动态表格里。双击表格中的任一行，会在 {{$:/core/images/standard-layout}} 标准布局里，打开对应的联系人条目供你查看。

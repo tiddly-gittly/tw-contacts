@@ -1,0 +1,20 @@
+title: $:/plugins/linonetwo/contacts/PageLayout/components/Navigation
+
+\procedure lingo-base() $:/plugins/linonetwo/contacts/language/
+
+<fieldset>
+	<legend>{{$:/core/images/layout-button}} <<lingo Navigation>></legend>
+
+	<$button>
+		<$action-setfield $tiddler="$:/layout" text="" />
+		{{$:/core/images/standard-layout}}
+  	<<lingo BackToStandardLayout>>
+	</$button>
+
+	<$button>
+		<$action-navigate $to="$:/plugins/linonetwo/contacts/config" />
+		{{$:/core/images/options-button}}
+  	<<lingo OpenOptions>>
+	</$button>
+
+</fieldset>

@@ -6,4 +6,9 @@ title: $:/plugins/linonetwo/contacts/language/en-GB/Readme
 
 <<lingo Description>>
 
-Write readme here.
+!! How to use
+
+# Use the ‘Switch Layout’ button {{$:/core/ui/Buttons/layout}} on the page control button bar to switch to the ‘{{$:/plugins/linonetwo/contacts/icons/PageLayout}} <<lingo ShortName>>’ layout.
+# Click the {{$:/core/images/new-button}} <<lingo AddNewItem>> button in the top left corner to create a new contact, etc. Clicking the button will automatically jump back to the {{$:/core/images/standard-layout}} standard layout and open the contact you just created. tiddler for you to edit.
+# After editing is complete and the tiddler is saved, you will see that in view mode, the smart field editor provided by [[Supertag|https://tiddly-gittly.github.io/super-tag/]] is displayed at the bottom of this tiddler, from which you can select the desired field. If you don't understand the usage, you can read the documentation of the supertag.
+# After editing and saving the tiddler, it will appear in a dynamic table in the {{$:/plugins/linonetwo/contacts/icons/PageLayout}} <<lingo ShortName>> layout. Double-clicking on any row in the table will open the corresponding contact tiddler in the {{$:/core/images/standard-layout}} standard layout for you to view.

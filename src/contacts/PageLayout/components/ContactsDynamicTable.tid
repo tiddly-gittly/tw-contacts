@@ -1,11 +1,11 @@
-title: $:/plugins/linonetwo/contacts/components/ContactsDynamicTable
+title: $:/plugins/linonetwo/contacts/PageLayout/components/ContactsDynamicTable
 
 \import [[$:/plugins/linonetwo/contacts/filters/contacts]]
 \whitespace trim
 
 \procedure lingo-base() $:/plugins/linonetwo/contacts/language/
 
-!!! <$count filter=<<get-all-contacts>> /> <<lingo DeBuff>>
+!!! <$count filter=<<get-all-contacts>> /> <<lingo ContactsList>>
 
 <$basic-table
   filter=<<get-all-contacts>>

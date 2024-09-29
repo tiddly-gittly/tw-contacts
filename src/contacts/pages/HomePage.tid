@@ -2,9 +2,9 @@ title: $:/plugins/linonetwo/contacts/pages/HomePage
 
 <nav class="contacts-layout-top-area">
 
-{{$:/plugins/linonetwo/contacts/components/AddNewItem}}
+{{$:/plugins/linonetwo/contacts/PageLayout/components/AddNewItem}}
 
-{{$:/plugins/linonetwo/contacts/components/Navigation}}
+{{$:/plugins/linonetwo/contacts/PageLayout/components/Navigation}}
 
 </nav>
 
@@ -12,6 +12,6 @@ title: $:/plugins/linonetwo/contacts/pages/HomePage
 
 <article class="contacts-layout-body-area">
 
-{{$:/plugins/linonetwo/contacts/components/ContactsDynamicTable}}
+{{$:/plugins/linonetwo/contacts/PageLayout/components/ContactsDynamicTable}}
 
 </article>
